@@ -1,4 +1,5 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700;800&display=swap');
+@import url(Family: [Inter](https://fonts.google.com/specimen/Inter
+
 *{
     padding: 0;
     margin: 0;
@@ -286,16 +287,7 @@ main .bottom{
 .bottom__block--text a:hover{
     color: var(--soft-red);
 }
-footer{
-    text-align: center;
-    margin-bottom: 1rem;
-}
-footer a{
-    color: var(--soft-red);
-}
-footer a:hover{
-    text-decoration: none;
-}
+
 @media(min-width: 850px){
     .container{
         padding: 1.5rem 3rem;
@@ -365,3 +357,5 @@ footer a:hover{
         gap: 2.5rem;
     }
 }
+
+
